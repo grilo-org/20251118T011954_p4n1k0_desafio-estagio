@@ -1,0 +1,1001 @@
+id_visitante,cidade_lead,setor_empresa,tempo_navegacao_site,paginas_visitadas,converteu_em_cliente
+1,Belo Horizonte,Consultoria,795,6,sim
+2,Porto Alegre,Varejo,369,5,não
+3,São Paulo,Finanças,1346,17,não
+4,Campinas,Consultoria,1087,10,sim
+5,Florianópolis,Governo,1138,13,não
+6,Brasília,Marketing,401,6,não
+7,Fortaleza,Finanças,1402,12,sim
+8,Salvador,Consultoria,695,6,não
+9,Curitiba,Indústria,820,7,não
+10,Guarulhos,Governo,968,10,não
+11,Rio de Janeiro,Varejo,1006,10,não
+12,Porto Alegre,Indústria,710,8,não
+13,Manaus,Varejo,602,6,não
+14,Belém,Educação,1019,12,não
+15,São Paulo,Marketing,371,3,não
+16,Belém,Consultoria,929,8,sim
+17,Salvador,Marketing,583,6,não
+18,Belém,Governo,993,10,não
+19,Belo Horizonte,Marketing,311,5,não
+20,Guarulhos,Marketing,661,6,não
+21,Belo Horizonte,Consultoria,306,4,não
+22,Guarulhos,Serviços,1048,11,sim
+23,Salvador,Governo,1084,11,sim
+24,Goiânia,Varejo,1070,9,sim
+25,Recife,Marketing,852,7,sim
+26,Campinas,Tecnologia,1873,19,sim
+27,Goiânia,Varejo,385,5,não
+28,Belém,Tecnologia,1995,20,sim
+29,Recife,Serviços,1012,12,sim
+30,São Paulo,Consultoria,844,7,sim
+31,Goiânia,Finanças,1234,14,sim
+32,Belo Horizonte,Varejo,838,8,não
+33,Rio de Janeiro,Governo,505,7,não
+34,Recife,Marketing,629,8,não
+35,São Paulo,Serviços,1010,10,sim
+36,Fortaleza,Educação,744,9,não
+37,Belo Horizonte,Serviços,210,1,não
+38,Campinas,Finanças,2428,26,sim
+39,Curitiba,Governo,225,2,não
+40,Belo Horizonte,Marketing,390,5,não
+41,Fortaleza,Serviços,999,10,sim
+42,Campinas,Tecnologia,1239,12,sim
+43,Salvador,Serviços,235,3,não
+44,Fortaleza,Educação,1032,10,sim
+45,Florianópolis,Serviços,654,7,não
+46,Curitiba,Educação,376,4,não
+47,Belém,Indústria,840,9,não
+48,Fortaleza,Saúde,1128,10,não
+49,Guarulhos,Serviços,1166,12,não
+50,Campinas,Finanças,1931,23,sim
+51,Florianópolis,Finanças,1288,14,sim
+52,Guarulhos,Serviços,617,5,não
+53,Campinas,Varejo,231,1,não
+54,Rio de Janeiro,Saúde,295,4,não
+55,Manaus,Tecnologia,1268,14,não
+56,Brasília,Serviços,1047,9,não
+57,Belém,Marketing,1176,12,não
+58,Campinas,Indústria,1040,11,sim
+59,Goiânia,Tecnologia,2275,22,sim
+60,Recife,Saúde,432,6,não
+61,Brasília,Marketing,1065,9,não
+62,Belo Horizonte,Tecnologia,1505,17,sim
+63,São Paulo,Marketing,1118,10,não
+64,São Paulo,Serviços,723,8,não
+65,Salvador,Saúde,463,5,não
+66,Recife,Consultoria,486,4,não
+67,Porto Alegre,Varejo,747,9,não
+68,Brasília,Consultoria,314,3,não
+69,Curitiba,Tecnologia,1359,16,sim
+70,Florianópolis,Marketing,784,9,não
+71,Curitiba,Governo,1134,13,sim
+72,Rio de Janeiro,Varejo,838,9,não
+73,Campinas,Consultoria,1093,12,não
+74,Porto Alegre,Finanças,1399,15,sim
+75,Porto Alegre,Indústria,563,6,não
+76,Belo Horizonte,Varejo,956,10,não
+77,Curitiba,Governo,256,4,não
+78,Campinas,Indústria,454,6,não
+79,Goiânia,Varejo,709,8,não
+80,Rio de Janeiro,Governo,1088,11,não
+81,Recife,Tecnologia,1925,23,sim
+82,São Paulo,Consultoria,983,10,não
+83,Fortaleza,Governo,1015,10,não
+84,Goiânia,Serviços,684,7,não
+85,Recife,Finanças,2236,25,sim
+86,São Paulo,Finanças,1968,22,sim
+87,São Paulo,Consultoria,320,5,não
+88,Goiânia,Educação,783,8,não
+89,Campinas,Indústria,712,7,não
+90,Recife,Educação,741,6,não
+91,Rio de Janeiro,Governo,327,4,não
+92,Belém,Consultoria,570,7,não
+93,Rio de Janeiro,Consultoria,884,9,não
+94,Goiânia,Marketing,823,9,não
+95,São Paulo,Consultoria,811,7,não
+96,Guarulhos,Tecnologia,1807,22,sim
+97,Fortaleza,Governo,197,3,não
+98,Fortaleza,Indústria,293,4,não
+99,Curitiba,Tecnologia,1622,19,sim
+100,Goiânia,Consultoria,710,7,não
+101,Belém,Governo,867,9,não
+102,Florianópolis,Finanças,1804,22,sim
+103,Belo Horizonte,Marketing,618,8,não
+104,Brasília,Educação,842,9,não
+105,Guarulhos,Educação,1093,13,sim
+106,Porto Alegre,Consultoria,567,7,não
+107,Rio de Janeiro,Marketing,434,4,não
+108,Florianópolis,Indústria,1199,14,sim
+109,Goiânia,Indústria,611,6,não
+110,Florianópolis,Marketing,783,9,não
+111,Fortaleza,Marketing,864,8,não
+112,Porto Alegre,Governo,398,5,não
+113,Belo Horizonte,Tecnologia,2279,27,sim
+114,Goiânia,Tecnologia,2420,26,sim
+115,Curitiba,Tecnologia,2197,25,sim
+116,Guarulhos,Marketing,1121,11,sim
+117,Salvador,Finanças,1674,18,sim
+118,Goiânia,Governo,731,9,não
+119,Goiânia,Marketing,1176,14,não
+120,Goiânia,Consultoria,1095,11,não
+121,Recife,Governo,306,3,não
+122,Belo Horizonte,Governo,201,3,não
+123,Porto Alegre,Governo,182,3,não
+124,Goiânia,Indústria,740,6,não
+125,Florianópolis,Tecnologia,1190,14,sim
+126,São Paulo,Tecnologia,1185,14,sim
+127,São Paulo,Indústria,960,11,não
+128,Brasília,Indústria,700,9,não
+129,Salvador,Consultoria,663,7,não
+130,Campinas,Marketing,248,3,não
+131,Belém,Finanças,2237,23,sim
+132,Recife,Governo,392,5,não
+133,Manaus,Serviços,417,4,não
+134,Recife,Governo,1175,13,não
+135,Guarulhos,Serviços,804,9,não
+136,Goiânia,Marketing,881,10,não
+137,Curitiba,Varejo,570,7,não
+138,Belo Horizonte,Finanças,869,10,não
+139,Manaus,Saúde,299,3,não
+140,Salvador,Finanças,1505,17,sim
+141,Recife,Marketing,843,8,não
+142,Florianópolis,Tecnologia,2326,27,sim
+143,Curitiba,Indústria,583,7,não
+144,Salvador,Indústria,801,9,não
+145,São Paulo,Marketing,209,2,não
+146,Curitiba,Consultoria,861,11,não
+147,Goiânia,Governo,440,5,não
+148,Curitiba,Varejo,528,7,não
+149,Rio de Janeiro,Tecnologia,1236,13,sim
+150,Guarulhos,Tecnologia,1507,17,sim
+151,Curitiba,Educação,741,7,não
+152,Florianópolis,Varejo,838,10,não
+153,Belo Horizonte,Educação,605,7,não
+154,Campinas,Educação,461,6,não
+155,Guarulhos,Consultoria,389,4,não
+156,Fortaleza,Governo,501,4,não
+157,Salvador,Marketing,864,8,não
+158,Recife,Marketing,665,6,não
+159,Curitiba,Marketing,1177,13,não
+160,Belém,Educação,761,9,não
+161,São Paulo,Saúde,1194,14,não
+162,Recife,Governo,640,6,não
+163,Florianópolis,Educação,940,11,não
+164,Brasília,Tecnologia,863,12,não
+165,Rio de Janeiro,Tecnologia,2025,23,sim
+166,Goiânia,Saúde,285,4,não
+167,Belo Horizonte,Serviços,1198,12,sim
+168,Recife,Finanças,1386,17,sim
+169,Salvador,Governo,286,4,não
+170,Florianópolis,Varejo,230,2,não
+171,Porto Alegre,Tecnologia,2353,24,sim
+172,Goiânia,Educação,272,3,não
+173,Salvador,Varejo,364,5,não
+174,Campinas,Tecnologia,1223,16,sim
+175,Florianópolis,Serviços,230,4,não
+176,Goiânia,Varejo,528,6,não
+177,Curitiba,Varejo,448,5,não
+178,Florianópolis,Consultoria,777,8,não
+179,Brasília,Finanças,1468,16,sim
+180,Curitiba,Finanças,2234,26,sim
+181,Salvador,Educação,851,10,não
+182,São Paulo,Finanças,2230,22,sim
+183,Rio de Janeiro,Consultoria,683,8,não
+184,Campinas,Serviços,1176,14,não
+185,Belo Horizonte,Finanças,1402,17,sim
+186,Goiânia,Governo,232,2,não
+187,Brasília,Indústria,817,7,não
+188,Campinas,Serviços,294,4,não
+189,Belo Horizonte,Marketing,951,10,não
+190,Guarulhos,Marketing,930,11,não
+191,Belém,Governo,306,4,não
+192,Goiânia,Marketing,1001,11,não
+193,Manaus,Serviços,1048,11,sim
+194,Goiânia,Serviços,654,8,não
+195,Belém,Indústria,814,8,não
+196,Salvador,Consultoria,791,8,não
+197,Florianópolis,Educação,558,6,não
+198,Porto Alegre,Tecnologia,2425,25,sim
+199,São Paulo,Governo,563,6,não
+200,Belo Horizonte,Consultoria,908,10,não
+201,Salvador,Varejo,1134,13,não
+202,Manaus,Governo,1087,12,sim
+203,Guarulhos,Saúde,678,6,não
+204,Rio de Janeiro,Serviços,1072,11,não
+205,Florianópolis,Indústria,1114,13,não
+206,Goiânia,Serviços,867,10,não
+207,Salvador,Tecnologia,1750,21,sim
+208,Porto Alegre,Educação,526,7,não
+209,São Paulo,Serviços,612,7,não
+210,Rio de Janeiro,Indústria,907,11,não
+211,Salvador,Saúde,1062,11,sim
+212,Curitiba,Consultoria,1009,10,sim
+213,Rio de Janeiro,Tecnologia,1133,12,sim
+214,Curitiba,Marketing,1194,13,sim
+215,Manaus,Indústria,962,11,não
+216,Rio de Janeiro,Marketing,1170,12,não
+217,Rio de Janeiro,Varejo,523,7,não
+218,Fortaleza,Varejo,431,6,não
+219,Salvador,Varejo,464,4,não
+220,Manaus,Governo,1133,13,não
+221,Florianópolis,Governo,201,4,não
+222,São Paulo,Saúde,299,2,não
+223,Recife,Varejo,1190,14,sim
+224,Rio de Janeiro,Governo,1000,10,não
+225,Recife,Serviços,506,5,não
+226,Campinas,Varejo,974,10,não
+227,Curitiba,Marketing,763,6,não
+228,Florianópolis,Varejo,377,4,não
+229,Belo Horizonte,Consultoria,1033,10,não
+230,Rio de Janeiro,Indústria,1048,11,não
+231,Campinas,Marketing,209,4,não
+232,Belo Horizonte,Saúde,1121,12,sim
+233,Porto Alegre,Educação,813,7,não
+234,Recife,Consultoria,691,6,não
+235,Florianópolis,Marketing,784,8,não
+236,Rio de Janeiro,Finanças,1370,14,sim
+237,Recife,Finanças,2207,26,sim
+238,Salvador,Marketing,808,10,não
+239,Rio de Janeiro,Indústria,1108,13,sim
+240,Florianópolis,Saúde,690,7,não
+241,São Paulo,Governo,1051,12,não
+242,Belo Horizonte,Marketing,660,7,não
+243,São Paulo,Tecnologia,1465,16,sim
+244,Belo Horizonte,Serviços,1118,12,não
+245,Curitiba,Indústria,1052,10,não
+246,Salvador,Varejo,458,5,não
+247,Porto Alegre,Indústria,678,6,não
+248,Manaus,Finanças,2098,24,sim
+249,Belo Horizonte,Governo,1093,12,sim
+250,Salvador,Consultoria,1073,11,sim
+251,Recife,Finanças,2101,23,sim
+252,Belém,Tecnologia,1227,15,sim
+253,Manaus,Consultoria,643,8,não
+254,Salvador,Tecnologia,1927,21,sim
+255,Belo Horizonte,Educação,551,7,não
+256,Goiânia,Indústria,615,8,não
+257,Fortaleza,Educação,744,9,não
+258,São Paulo,Serviços,1049,12,não
+259,Belém,Finanças,1551,18,sim
+260,Recife,Indústria,736,8,não
+261,Campinas,Educação,1096,12,sim
+262,Rio de Janeiro,Serviços,1015,10,não
+263,Fortaleza,Serviços,994,10,não
+264,Goiânia,Governo,519,7,não
+265,Guarulhos,Finanças,2237,23,sim
+266,Goiânia,Governo,727,6,não
+267,Campinas,Governo,1135,13,não
+268,Salvador,Serviços,681,8,não
+269,Florianópolis,Consultoria,306,4,não
+270,Porto Alegre,Consultoria,482,5,não
+271,Rio de Janeiro,Indústria,249,2,não
+272,Porto Alegre,Tecnologia,1434,18,sim
+273,Brasília,Finanças,2017,20,sim
+274,Fortaleza,Varejo,266,3,não
+275,São Paulo,Tecnologia,1359,16,sim
+276,Recife,Governo,458,5,não
+277,Manaus,Finanças,1408,18,sim
+278,Guarulhos,Governo,950,9,não
+279,Rio de Janeiro,Saúde,1062,12,não
+280,Florianópolis,Consultoria,854,8,não
+281,Recife,Serviços,507,7,não
+282,Guarulhos,Governo,1067,11,não
+283,Florianópolis,Educação,813,9,não
+284,Curitiba,Finanças,1675,17,sim
+285,Fortaleza,Consultoria,777,6,não
+286,São Paulo,Finanças,1808,18,sim
+287,Curitiba,Varejo,378,3,não
+288,Porto Alegre,Tecnologia,2270,25,sim
+289,Rio de Janeiro,Saúde,295,4,não
+290,Brasília,Tecnologia,2241,25,sim
+291,Manaus,Tecnologia,1503,18,sim
+292,Rio de Janeiro,Finanças,1071,13,não
+293,Curitiba,Indústria,940,9,não
+294,São Paulo,Varejo,830,9,não
+295,Fortaleza,Governo,737,8,não
+296,Porto Alegre,Consultoria,869,9,não
+297,Salvador,Educação,335,4,não
+298,Florianópolis,Educação,940,11,não
+299,Recife,Governo,728,9,não
+300,Guarulhos,Finanças,1121,12,não
+301,Salvador,Consultoria,300,4,não
+302,Manaus,Finanças,1490,16,sim
+303,Porto Alegre,Consultoria,385,5,não
+304,Fortaleza,Varejo,397,4,não
+305,Belo Horizonte,Serviços,1194,14,sim
+306,São Paulo,Varejo,1154,12,não
+307,Fortaleza,Indústria,605,8,não
+308,Belo Horizonte,Saúde,1022,12,sim
+309,São Paulo,Tecnologia,1447,15,sim
+310,São Paulo,Governo,1130,12,não
+311,Rio de Janeiro,Marketing,1159,12,não
+312,Rio de Janeiro,Finanças,1250,14,sim
+313,Campinas,Marketing,247,4,não
+314,Brasília,Varejo,1192,12,não
+315,São Paulo,Serviços,516,6,não
+316,Porto Alegre,Saúde,914,9,não
+317,Belo Horizonte,Serviços,1048,11,não
+318,Rio de Janeiro,Serviços,864,8,não
+319,Brasília,Consultoria,867,9,não
+320,São Paulo,Indústria,1118,12,não
+321,Salvador,Tecnologia,1184,15,sim
+322,Recife,Governo,1127,10,não
+323,Fortaleza,Marketing,823,10,não
+324,São Paulo,Finanças,1504,18,sim
+325,Rio de Janeiro,Governo,589,5,não
+326,Campinas,Saúde,738,9,não
+327,Salvador,Consultoria,775,8,não
+328,Recife,Saúde,1166,12,sim
+329,Curitiba,Serviços,857,10,não
+330,Goiânia,Educação,320,5,não
+331,Manaus,Tecnologia,1622,18,sim
+332,Porto Alegre,Governo,1086,13,não
+333,Fortaleza,Tecnologia,2329,26,sim
+334,Guarulhos,Finanças,1678,17,sim
+335,Florianópolis,Varejo,231,1,não
+336,Goiânia,Governo,551,7,não
+337,Rio de Janeiro,Indústria,403,3,não
+338,Curitiba,Indústria,1047,12,não
+339,Belém,Serviços,1144,12,não
+340,Recife,Marketing,398,5,não
+341,Rio de Janeiro,Marketing,629,8,não
+342,Florianópolis,Finanças,1515,15,sim
+343,Belém,Indústria,1185,12,não
+344,Brasília,Indústria,840,9,não
+345,Porto Alegre,Governo,502,7,não
+346,Rio de Janeiro,Governo,870,10,não
+347,Salvador,Marketing,871,8,não
+348,Belém,Varejo,1116,13,não
+349,Guarulhos,Varejo,689,6,não
+350,São Paulo,Consultoria,951,10,não
+351,Goiânia,Finanças,2268,24,sim
+352,Rio de Janeiro,Varejo,705,9,não
+353,São Paulo,Governo,1035,11,não
+354,Fortaleza,Governo,1017,11,não
+355,São Paulo,Governo,1093,12,não
+356,Goiânia,Serviços,1041,12,não
+357,Salvador,Varejo,534,4,não
+358,Belo Horizonte,Varejo,948,9,não
+359,Goiânia,Governo,683,8,não
+360,Fortaleza,Varejo,283,3,não
+361,São Paulo,Varejo,348,4,não
+362,Belo Horizonte,Indústria,736,9,não
+363,Manaus,Tecnologia,2002,23,sim
+364,Rio de Janeiro,Governo,1130,12,não
+365,Porto Alegre,Governo,309,5,não
+366,Curitiba,Governo,1015,10,não
+367,Campinas,Educação,1099,10,sim
+368,São Paulo,Governo,746,8,não
+369,São Paulo,Consultoria,585,5,não
+370,Salvador,Serviços,419,6,não
+371,Curitiba,Saúde,233,1,não
+372,Curitiba,Indústria,1166,13,não
+373,Goiânia,Governo,840,8,não
+374,Rio de Janeiro,Marketing,516,7,não
+375,São Paulo,Finanças,1804,18,sim
+376,Porto Alegre,Varejo,549,4,não
+377,Curitiba,Consultoria,908,10,não
+378,Curitiba,Tecnologia,2420,24,sim
+379,Florianópolis,Finanças,1935,21,sim
+380,Florianópolis,Consultoria,1001,11,não
+381,Goiânia,Indústria,1193,13,não
+382,Salvador,Educação,744,8,não
+383,Curitiba,Consultoria,314,5,não
+384,Goiânia,Consultoria,1048,11,não
+385,Guarulhos,Governo,458,5,não
+386,São Paulo,Educação,551,6,não
+387,Rio de Janeiro,Saúde,256,3,não
+388,Recife,Serviços,235,4,não
+389,Belo Horizonte,Indústria,1088,11,sim
+390,Manaus,Educação,607,7,não
+391,Belém,Governo,462,6,não
+392,Porto Alegre,Varejo,869,9,não
+393,Florianópolis,Saúde,476,7,não
+394,Guarulhos,Consultoria,1009,10,não
+395,Recife,Indústria,1082,13,não
+396,Belém,Finanças,1537,18,sim
+397,Curitiba,Consultoria,607,6,não
+398,Belém,Finanças,1730,19,sim
+399,Rio de Janeiro,Marketing,583,5,não
+400,Manaus,Governo,1121,12,sim
+401,São Paulo,Consultoria,922,9,não
+402,Florianópolis,Indústria,1161,12,sim
+403,Salvador,Serviços,476,5,não
+404,Curitiba,Serviços,523,7,não
+405,Manaus,Serviços,384,4,não
+406,Goiânia,Indústria,907,11,não
+407,Guarulhos,Finanças,2298,24,sim
+408,Recife,Governo,913,9,não
+409,Fortaleza,Indústria,988,9,não
+410,Curitiba,Governo,907,10,não
+411,Manaus,Governo,1088,12,não
+412,Guarulhos,Consultoria,471,5,não
+413,Fortaleza,Saúde,1194,14,sim
+414,Rio de Janeiro,Marketing,1005,10,não
+415,Belo Horizonte,Tecnologia,2276,23,sim
+416,Recife,Varejo,1127,11,sim
+417,Rio de Janeiro,Serviços,1046,12,não
+418,São Paulo,Governo,783,9,não
+419,Belo Horizonte,Indústria,849,10,não
+420,São Paulo,Serviços,1118,13,sim
+421,Goiânia,Educação,813,8,não
+422,Rio de Janeiro,Tecnologia,1501,16,sim
+423,Goiânia,Governo,950,11,não
+424,São Paulo,Tecnologia,1084,13,sim
+425,Salvador,Indústria,292,3,não
+426,Recife,Indústria,223,3,não
+427,São Paulo,Governo,718,6,não
+428,Curitiba,Indústria,1067,11,não
+429,Goiânia,Marketing,873,9,não
+430,Belo Horizonte,Marketing,644,7,não
+431,Rio de Janeiro,Indústria,904,11,não
+432,Campinas,Finanças,1729,18,sim
+433,Brasília,Serviços,588,6,não
+434,Rio de Janeiro,Consultoria,777,6,não
+435,Recife,Indústria,420,5,não
+436,Salvador,Serviços,419,4,não
+437,Belo Horizonte,Serviços,381,3,não
+438,Rio de Janeiro,Tecnologia,1176,14,sim
+439,Fortaleza,Governo,683,7,não
+440,Guarulhos,Consultoria,1154,12,sim
+441,Belo Horizonte,Governo,867,10,não
+442,Belém,Marketing,803,10,não
+443,Fortaleza,Indústria,203,2,não
+444,Goiânia,Varejo,178,2,não
+445,Manaus,Educação,741,7,não
+446,Fortaleza,Consultoria,965,9,não
+447,Curitiba,Governo,496,7,não
+448,Guarulhos,Governo,286,2,não
+449,Goiânia,Saúde,860,10,não
+450,Recife,Educação,551,5,não
+451,Goiânia,Finanças,1663,19,sim
+452,Guarulhos,Marketing,951,10,não
+453,Guarulhos,Serviços,1041,12,não
+454,Curitiba,Indústria,1117,13,não
+455,Curitiba,Consultoria,695,8,não
+456,São Paulo,Governo,725,9,não
+457,Manaus,Governo,303,4,não
+458,Campinas,Governo,608,8,não
+459,Fortaleza,Marketing,434,3,não
+460,Manaus,Saúde,1118,12,sim
+461,Belo Horizonte,Serviços,389,4,não
+462,Salvador,Varejo,397,4,não
+463,Curitiba,Governo,683,6,não
+464,Salvador,Marketing,831,8,não
+465,Goiânia,Indústria,226,3,não
+466,Florianópolis,Finanças,1468,16,sim
+467,Belo Horizonte,Varejo,478,6,não
+468,São Paulo,Saúde,316,2,não
+469,Recife,Tecnologia,2276,27,sim
+470,Goiânia,Educação,465,5,não
+471,Campinas,Marketing,246,3,não
+472,Recife,Varejo,263,3,não
+473,Salvador,Serviços,291,2,não
+474,Goiânia,Varejo,856,10,não
+475,Florianópolis,Indústria,1048,11,não
+476,Florianópolis,Consultoria,563,5,não
+477,Manaus,Governo,436,5,não
+478,Rio de Janeiro,Tecnologia,1535,17,sim
+479,Belo Horizonte,Saúde,1130,13,sim
+480,Salvador,Governo,783,8,não
+481,São Paulo,Consultoria,631,8,não
+482,Campinas,Marketing,260,3,não
+483,Salvador,Tecnologia,2198,24,sim
+484,Brasília,Serviços,561,6,não
+485,Recife,Finanças,1336,16,sim
+486,Brasília,Educação,298,4,não
+487,Campinas,Consultoria,314,3,não
+488,Florianópolis,Varejo,709,7,não
+489,Salvador,Varejo,765,9,não
+490,Recife,Finanças,842,9,não
+491,Campinas,Governo,425,5,não
+492,Florianópolis,Governo,867,10,não
+493,Salvador,Indústria,1110,13,não
+494,Belo Horizonte,Consultoria,310,3,não
+495,Goiânia,Educação,349,2,não
+496,Recife,Tecnologia,1925,23,sim
+497,Recife,Indústria,479,6,não
+498,Rio de Janeiro,Marketing,1166,13,sim
+499,Manaus,Educação,527,6,não
+500,Fortaleza,Consultoria,607,7,não
+501,São Paulo,Varejo,397,4,não
+502,Campinas,Governo,309,5,não
+503,Belém,Marketing,434,6,não
+504,Belo Horizonte,Educação,1093,12,não
+505,Belo Horizonte,Serviços,570,7,não
+506,Belém,Finanças,1849,20,sim
+507,Salvador,Serviços,734,7,não
+508,Belo Horizonte,Varejo,528,6,não
+509,Fortaleza,Marketing,629,6,não
+510,Belém,Educação,526,7,não
+511,Belo Horizonte,Educação,349,2,não
+512,Goiânia,Educação,1048,12,não
+513,Curitiba,Governo,1087,11,sim
+514,Florianópolis,Serviços,1071,12,não
+515,Recife,Educação,991,10,não
+516,Belém,Varejo,448,5,não
+517,Florianópolis,Finanças,1250,14,sim
+518,Porto Alegre,Governo,734,8,não
+519,Guarulhos,Marketing,1121,11,não
+520,Manaus,Varejo,317,4,não
+521,Porto Alegre,Marketing,516,5,não
+522,São Paulo,Marketing,1194,13,não
+523,Recife,Marketing,808,8,não
+524,Curitiba,Tecnologia,2017,21,sim
+525,Guarulhos,Serviços,516,6,não
+526,Brasília,Marketing,247,4,não
+527,Manaus,Governo,870,10,não
+528,Porto Alegre,Marketing,390,3,não
+529,Guarulhos,Educação,375,5,não
+530,Salvador,Marketing,823,10,não
+531,Goiânia,Governo,225,4,não
+532,Salvador,Marketing,881,10,não
+533,Manaus,Finanças,1748,21,sim
+534,Curitiba,Consultoria,306,4,não
+535,Curitiba,Marketing,1065,11,sim
+536,Goiânia,Tecnologia,1985,21,sim
+537,Recife,Varejo,570,7,não
+538,Belém,Saúde,299,2,não
+539,Rio de Janeiro,Educação,605,7,não
+540,Porto Alegre,Marketing,209,3,não
+541,Guarulhos,Governo,1130,12,não
+542,Brasília,Serviços,417,6,não
+543,Guarulhos,Saúde,1166,12,sim
+544,Porto Alegre,Governo,1051,11,não
+545,Fortaleza,Marketing,843,8,não
+546,Belo Horizonte,Tecnologia,1447,16,sim
+547,Campinas,Saúde,738,9,não
+548,Belo Horizonte,Indústria,849,10,não
+549,Belo Horizonte,Saúde,1022,12,sim
+550,Salvador,Consultoria,775,8,não
+551,Florianópolis,Finanças,1515,15,sim
+552,Manaus,Governo,1121,12,sim
+553,Fortaleza,Tecnologia,2329,26,sim
+554,Manaus,Tecnologia,1622,18,sim
+555,Recife,Saúde,1166,12,sim
+556,Goiânia,Finanças,2268,24,sim
+557,Guarulhos,Finanças,1678,17,sim
+558,São Paulo,Finanças,1504,18,sim
+559,Fortaleza,Saúde,1194,14,sim
+560,Rio de Janeiro,Finanças,1250,14,sim
+561,Curitiba,Serviços,857,10,não
+562,Rio de Janeiro,Marketing,629,8,não
+563,Belém,Indústria,1185,12,não
+564,Brasília,Indústria,840,9,não
+565,Porto Alegre,Governo,502,7,não
+566,Rio de Janeiro,Governo,870,10,não
+567,Salvador,Marketing,871,8,não
+568,Belém,Varejo,1116,13,não
+569,Guarulhos,Varejo,689,6,não
+570,São Paulo,Consultoria,951,10,não
+571,Goiânia,Varejo,178,2,não
+572,Manaus,Educação,741,7,não
+573,Fortaleza,Consultoria,965,9,não
+574,Curitiba,Governo,496,7,não
+575,Guarulhos,Governo,286,2,não
+576,Goiânia,Saúde,860,10,não
+577,Recife,Educação,551,5,não
+578,Goiânia,Finanças,1663,19,sim
+579,Guarulhos,Marketing,951,10,não
+580,Guarulhos,Serviços,1041,12,não
+581,Curitiba,Indústria,1117,13,não
+582,Curitiba,Consultoria,695,8,não
+583,São Paulo,Governo,725,9,não
+584,Manaus,Governo,303,4,não
+585,Campinas,Governo,608,8,não
+586,Fortaleza,Marketing,434,3,não
+587,Manaus,Saúde,1118,12,sim
+588,Belo Horizonte,Serviços,389,4,não
+589,Salvador,Varejo,397,4,não
+590,Curitiba,Governo,683,6,não
+591,Salvador,Marketing,831,8,não
+592,Goiânia,Indústria,226,3,não
+593,Florianópolis,Finanças,1468,16,sim
+594,Belo Horizonte,Varejo,478,6,não
+595,São Paulo,Saúde,316,2,não
+596,Recife,Tecnologia,2276,27,sim
+597,Goiânia,Educação,465,5,não
+598,Campinas,Marketing,246,3,não
+599,Recife,Varejo,263,3,não
+600,Salvador,Serviços,291,2,não
+601,Rio de Janeiro,Indústria,249,2,não
+602,Porto Alegre,Tecnologia,1434,18,sim
+603,Brasília,Finanças,2017,20,sim
+604,Fortaleza,Varejo,266,3,não
+605,São Paulo,Tecnologia,1359,16,sim
+606,Recife,Governo,458,5,não
+607,Manaus,Finanças,1408,18,sim
+608,Guarulhos,Governo,950,9,não
+609,Rio de Janeiro,Saúde,1062,12,não
+610,Florianópolis,Consultoria,854,8,não
+611,Recife,Serviços,507,7,não
+612,Guarulhos,Governo,1067,11,não
+613,Florianópolis,Educação,813,9,não
+614,Curitiba,Finanças,1675,17,sim
+615,Fortaleza,Consultoria,777,6,não
+616,São Paulo,Finanças,1808,18,sim
+617,Curitiba,Varejo,378,3,não
+618,Porto Alegre,Tecnologia,2270,25,sim
+619,Rio de Janeiro,Saúde,295,4,não
+620,Brasília,Tecnologia,2241,25,sim
+621,Manaus,Tecnologia,1503,18,sim
+622,Rio de Janeiro,Finanças,1071,13,não
+623,Curitiba,Indústria,940,9,não
+624,São Paulo,Varejo,830,9,não
+625,Fortaleza,Governo,737,8,não
+626,Porto Alegre,Consultoria,869,9,não
+627,Salvador,Educação,335,4,não
+628,Florianópolis,Educação,940,11,não
+629,Recife,Governo,728,9,não
+630,Guarulhos,Finanças,1121,12,não
+631,Salvador,Consultoria,300,4,não
+632,Manaus,Finanças,1490,16,sim
+633,Porto Alegre,Consultoria,385,5,não
+634,Fortaleza,Varejo,397,4,não
+635,Belo Horizonte,Serviços,1194,14,sim
+636,São Paulo,Varejo,1154,12,não
+637,Fortaleza,Indústria,605,8,não
+638,Belo Horizonte,Saúde,1022,12,sim
+639,São Paulo,Tecnologia,1447,15,sim
+640,São Paulo,Governo,1130,12,não
+641,Rio de Janeiro,Marketing,1159,12,não
+642,Rio de Janeiro,Finanças,1250,14,sim
+643,Campinas,Marketing,247,4,não
+644,Brasília,Varejo,1192,12,não
+645,São Paulo,Serviços,516,6,não
+646,Porto Alegre,Saúde,914,9,não
+647,Belo Horizonte,Serviços,1048,11,não
+648,Rio de Janeiro,Serviços,864,8,não
+649,Brasília,Consultoria,867,9,não
+650,São Paulo,Indústria,1118,12,não
+651,Goiânia,Varejo,856,10,não
+652,Florianópolis,Indústria,1048,11,não
+653,Florianópolis,Consultoria,563,5,não
+654,Manaus,Governo,436,5,não
+655,Rio de Janeiro,Tecnologia,1535,17,sim
+656,Belo Horizonte,Saúde,1130,13,sim
+657,Salvador,Governo,783,8,não
+658,São Paulo,Consultoria,631,8,não
+659,Campinas,Marketing,260,3,não
+660,Salvador,Tecnologia,2198,24,sim
+661,Brasília,Serviços,561,6,não
+662,Recife,Finanças,1336,16,sim
+663,Brasília,Educação,298,4,não
+664,Campinas,Consultoria,314,3,não
+665,Florianópolis,Varejo,709,7,não
+666,Salvador,Varejo,765,9,não
+667,Recife,Finanças,842,9,não
+668,Campinas,Governo,425,5,não
+669,Florianópolis,Governo,867,10,não
+670,Salvador,Indústria,1110,13,não
+671,Belo Horizonte,Consultoria,310,3,não
+672,Goiânia,Educação,349,2,não
+673,Recife,Tecnologia,1925,23,sim
+674,Recife,Indústria,479,6,não
+675,Rio de Janeiro,Marketing,1166,13,sim
+676,Manaus,Educação,527,6,não
+677,Fortaleza,Consultoria,607,7,não
+678,São Paulo,Varejo,397,4,não
+679,Campinas,Governo,309,5,não
+680,Belém,Marketing,434,6,não
+681,Belo Horizonte,Educação,1093,12,não
+682,Belo Horizonte,Serviços,570,7,não
+683,Belém,Finanças,1849,20,sim
+684,Salvador,Serviços,734,7,não
+685,Belo Horizonte,Varejo,528,6,não
+686,Fortaleza,Marketing,629,6,não
+687,Belém,Educação,526,7,não
+688,Belo Horizonte,Educação,349,2,não
+689,Goiânia,Educação,1048,12,não
+690,Curitiba,Governo,1087,11,sim
+691,Florianópolis,Serviços,1071,12,não
+692,Recife,Educação,991,10,não
+693,Belém,Varejo,448,5,não
+694,Florianópolis,Finanças,1250,14,sim
+695,Porto Alegre,Governo,734,8,não
+696,Guarulhos,Marketing,1121,11,não
+697,Manaus,Varejo,317,4,não
+698,Porto Alegre,Marketing,516,5,não
+699,São Paulo,Marketing,1194,13,não
+700,Recife,Marketing,808,8,não
+701,São Paulo,Tecnologia,2025,23,sim
+702,Goiânia,Saúde,285,4,não
+703,Belo Horizonte,Serviços,1198,12,sim
+704,Recife,Finanças,1386,17,sim
+705,Salvador,Governo,286,4,não
+706,Florianópolis,Varejo,230,2,não
+707,Porto Alegre,Tecnologia,2353,24,sim
+708,Goiânia,Educação,272,3,não
+709,Salvador,Varejo,364,5,não
+710,Campinas,Tecnologia,1223,16,sim
+711,Florianópolis,Serviços,230,4,não
+712,Goiânia,Varejo,528,6,não
+713,Curitiba,Varejo,448,5,não
+714,Florianópolis,Consultoria,777,8,não
+715,Brasília,Finanças,1468,16,sim
+716,Curitiba,Finanças,2234,26,sim
+717,Salvador,Educação,851,10,não
+718,São Paulo,Finanças,2230,22,sim
+719,Rio de Janeiro,Consultoria,683,8,não
+720,Campinas,Serviços,1176,14,não
+721,Belo Horizonte,Finanças,1402,17,sim
+722,Goiânia,Governo,232,2,não
+723,Brasília,Indústria,817,7,não
+724,Campinas,Serviços,294,4,não
+725,Belo Horizonte,Marketing,951,10,não
+726,Guarulhos,Marketing,930,11,não
+727,Belém,Governo,306,4,não
+728,Goiânia,Marketing,1001,11,não
+729,Manaus,Serviços,1048,11,sim
+730,Goiânia,Serviços,654,8,não
+731,Belém,Indústria,814,8,não
+732,Salvador,Consultoria,791,8,não
+733,Florianópolis,Educação,558,6,não
+734,Porto Alegre,Tecnologia,2425,25,sim
+735,São Paulo,Governo,563,6,não
+736,Belo Horizonte,Consultoria,908,10,não
+737,Salvador,Varejo,1134,13,não
+738,Manaus,Governo,1087,12,sim
+739,Guarulhos,Saúde,678,6,não
+740,Rio de Janeiro,Serviços,1072,11,não
+741,Florianópolis,Indústria,1114,13,não
+742,Goiânia,Serviços,867,10,não
+743,Salvador,Tecnologia,1750,21,sim
+744,Porto Alegre,Educação,526,7,não
+745,São Paulo,Serviços,612,7,não
+746,Rio de Janeiro,Indústria,907,11,não
+747,Salvador,Saúde,1062,11,sim
+748,Curitiba,Consultoria,1009,10,sim
+749,Rio de Janeiro,Tecnologia,1133,12,sim
+750,Curitiba,Marketing,1194,13,sim
+751,Goiânia,Governo,731,9,não
+752,Goiânia,Marketing,1176,14,não
+753,Goiânia,Consultoria,1095,11,não
+754,Recife,Governo,306,3,não
+755,Belo Horizonte,Governo,201,3,não
+756,Porto Alegre,Governo,182,3,não
+757,Goiânia,Indústria,740,6,não
+758,Florianópolis,Tecnologia,1190,14,sim
+759,São Paulo,Tecnologia,1185,14,sim
+760,São Paulo,Indústria,960,11,não
+761,Brasília,Indústria,700,9,não
+762,Salvador,Consultoria,663,7,não
+763,Campinas,Marketing,248,3,não
+764,Belém,Finanças,2237,23,sim
+765,Recife,Governo,392,5,não
+766,Manaus,Serviços,417,4,não
+767,Recife,Governo,1175,13,não
+768,Guarulhos,Serviços,804,9,não
+769,Goiânia,Marketing,881,10,não
+770,Curitiba,Varejo,570,7,não
+771,Belo Horizonte,Finanças,869,10,não
+772,Manaus,Saúde,299,3,não
+773,Salvador,Finanças,1505,17,sim
+774,Recife,Marketing,843,8,não
+775,Florianópolis,Tecnologia,2326,27,sim
+776,Curitiba,Indústria,583,7,não
+777,Salvador,Indústria,801,9,não
+778,São Paulo,Marketing,209,2,não
+779,Curitiba,Consultoria,861,11,não
+780,Goiânia,Governo,440,5,não
+781,Curitiba,Varejo,528,7,não
+782,Rio de Janeiro,Tecnologia,1236,13,sim
+783,Guarulhos,Tecnologia,1507,17,sim
+784,Curitiba,Educação,741,7,não
+785,Florianópolis,Varejo,838,10,não
+786,Belo Horizonte,Educação,605,7,não
+787,Campinas,Educação,461,6,não
+788,Guarulhos,Consultoria,389,4,não
+789,Fortaleza,Governo,501,4,não
+790,Salvador,Marketing,864,8,não
+791,Recife,Marketing,665,6,não
+792,Curitiba,Marketing,1177,13,não
+793,Belém,Educação,761,9,não
+794,São Paulo,Saúde,1194,14,não
+795,Recife,Governo,640,6,não
+796,Florianópolis,Educação,940,11,não
+797,Brasília,Tecnologia,863,12,não
+798,Rio de Janeiro,Tecnologia,2025,23,sim
+799,Goiânia,Saúde,285,4,não
+800,Belo Horizonte,Serviços,1198,12,sim
+801,Salvador,Tecnologia,1184,15,sim
+802,Recife,Governo,1127,10,não
+803,Fortaleza,Marketing,823,10,não
+804,São Paulo,Finanças,1504,18,sim
+805,Rio de Janeiro,Governo,589,5,não
+806,Campinas,Saúde,738,9,não
+807,Salvador,Consultoria,775,8,não
+808,Recife,Saúde,1166,12,sim
+809,Curitiba,Serviços,857,10,não
+810,Goiânia,Educação,320,5,não
+811,Manaus,Tecnologia,1622,18,sim
+812,Porto Alegre,Governo,1086,13,não
+813,Fortaleza,Tecnologia,2329,26,sim
+814,Guarulhos,Finanças,1678,17,sim
+815,Florianópolis,Varejo,231,1,não
+816,Goiânia,Governo,551,7,não
+817,Rio de Janeiro,Indústria,403,3,não
+818,Curitiba,Indústria,1047,12,não
+819,Belém,Serviços,1144,12,não
+820,Recife,Marketing,398,5,não
+821,Rio de Janeiro,Marketing,629,8,não
+822,Florianópolis,Finanças,1515,15,sim
+823,Belém,Indústria,1185,12,não
+824,Brasília,Indústria,840,9,não
+825,Porto Alegre,Governo,502,7,não
+826,Rio de Janeiro,Governo,870,10,não
+827,Salvador,Marketing,871,8,não
+828,Belém,Varejo,1116,13,não
+829,Guarulhos,Varejo,689,6,não
+830,São Paulo,Consultoria,951,10,não
+831,Goiânia,Finanças,2268,24,sim
+832,Rio de Janeiro,Varejo,705,9,não
+833,São Paulo,Governo,1035,11,não
+834,Fortaleza,Governo,1017,11,não
+835,São Paulo,Governo,1093,12,não
+836,Goiânia,Serviços,1041,12,não
+837,Salvador,Varejo,534,4,não
+838,Belo Horizonte,Varejo,948,9,não
+839,Goiânia,Governo,683,8,não
+840,Fortaleza,Varejo,283,3,não
+841,São Paulo,Varejo,348,4,não
+842,Belo Horizonte,Indústria,736,9,não
+843,Manaus,Tecnologia,2002,23,sim
+844,Rio de Janeiro,Governo,1130,12,não
+845,Porto Alegre,Governo,309,5,não
+846,Curitiba,Governo,1015,10,não
+847,Campinas,Educação,1099,10,sim
+848,São Paulo,Governo,746,8,não
+849,São Paulo,Consultoria,585,5,não
+850,Salvador,Serviços,419,6,não
+851,Curitiba,Saúde,233,1,não
+852,Curitiba,Indústria,1166,13,não
+853,Goiânia,Governo,840,8,não
+854,Rio de Janeiro,Marketing,516,7,não
+855,São Paulo,Finanças,1804,18,sim
+856,Porto Alegre,Varejo,549,4,não
+857,Curitiba,Consultoria,908,10,não
+858,Curitiba,Tecnologia,2420,24,sim
+859,Florianópolis,Finanças,1935,21,sim
+860,Florianópolis,Consultoria,1001,11,não
+861,Goiânia,Indústria,1193,13,não
+862,Salvador,Educação,744,8,não
+863,Curitiba,Consultoria,314,5,não
+864,Goiânia,Consultoria,1048,11,não
+865,Guarulhos,Governo,458,5,não
+866,São Paulo,Educação,551,6,não
+867,Rio de Janeiro,Saúde,256,3,não
+868,Recife,Serviços,235,4,não
+869,Belo Horizonte,Indústria,1088,11,sim
+870,Manaus,Educação,607,7,não
+871,Belém,Governo,462,6,não
+872,Porto Alegre,Varejo,869,9,não
+873,Florianópolis,Saúde,476,7,não
+874,Guarulhos,Consultoria,1009,10,não
+875,Recife,Indústria,1082,13,não
+876,Belém,Finanças,1537,18,sim
+877,Curitiba,Consultoria,607,6,não
+878,Belém,Finanças,1730,19,sim
+879,Rio de Janeiro,Marketing,583,5,não
+880,Manaus,Governo,1121,12,sim
+881,São Paulo,Consultoria,922,9,não
+882,Florianópolis,Indústria,1161,12,sim
+883,Salvador,Serviços,476,5,não
+884,Curitiba,Serviços,523,7,não
+885,Manaus,Serviços,384,4,não
+886,Goiânia,Indústria,907,11,não
+887,Guarulhos,Finanças,2298,24,sim
+888,Recife,Governo,913,9,não
+889,Fortaleza,Indústria,988,9,não
+890,Curitiba,Governo,907,10,não
+891,Manaus,Governo,1088,12,não
+892,Guarulhos,Consultoria,471,5,não
+893,Fortaleza,Saúde,1194,14,sim
+894,Rio de Janeiro,Marketing,1005,10,não
+895,Belo Horizonte,Tecnologia,2276,23,sim
+896,Recife,Varejo,1127,11,sim
+897,Rio de Janeiro,Serviços,1046,12,não
+898,São Paulo,Governo,783,9,não
+899,Belo Horizonte,Indústria,849,10,não
+900,São Paulo,Serviços,1118,13,sim
+901,Recife,Governo,1127,10,não
+902,Fortaleza,Marketing,823,10,não
+903,São Paulo,Finanças,1504,18,sim
+904,Rio de Janeiro,Governo,589,5,não
+905,Campinas,Saúde,738,9,não
+906,Salvador,Consultoria,775,8,não
+907,Recife,Saúde,1166,12,sim
+908,Curitiba,Serviços,857,10,não
+909,Goiânia,Educação,320,5,não
+910,Manaus,Tecnologia,1622,18,sim
+911,Porto Alegre,Governo,1086,13,não
+912,Fortaleza,Tecnologia,2329,26,sim
+913,Guarulhos,Finanças,1678,17,sim
+914,Florianópolis,Varejo,231,1,não
+915,Goiânia,Governo,551,7,não
+916,Rio de Janeiro,Indústria,403,3,não
+917,Curitiba,Indústria,1047,12,não
+918,Belém,Serviços,1144,12,não
+919,Recife,Marketing,398,5,não
+920,Rio de Janeiro,Marketing,629,8,não
+921,Florianópolis,Finanças,1515,15,sim
+922,Belém,Indústria,1185,12,não
+923,Brasília,Indústria,840,9,não
+924,Porto Alegre,Governo,502,7,não
+925,Rio de Janeiro,Governo,870,10,não
+926,Salvador,Marketing,871,8,não
+927,Belém,Varejo,1116,13,não
+928,Guarulhos,Varejo,689,6,não
+929,São Paulo,Consultoria,951,10,não
+930,Goiânia,Finanças,2268,24,sim
+931,Rio de Janeiro,Varejo,705,9,não
+932,São Paulo,Governo,1035,11,não
+933,Fortaleza,Governo,1017,11,não
+934,São Paulo,Governo,1093,12,não
+935,Goiânia,Serviços,1041,12,não
+936,Salvador,Varejo,534,4,não
+937,Belo Horizonte,Varejo,948,9,não
+938,Goiânia,Governo,683,8,não
+939,Fortaleza,Varejo,283,3,não
+940,São Paulo,Varejo,348,4,não
+941,Belo Horizonte,Indústria,736,9,não
+942,Manaus,Tecnologia,2002,23,sim
+943,Rio de Janeiro,Governo,1130,12,não
+944,Porto Alegre,Governo,309,5,não
+945,Curitiba,Governo,1015,10,não
+946,Campinas,Educação,1099,10,sim
+947,São Paulo,Governo,746,8,não
+948,São Paulo,Consultoria,585,5,não
+949,Salvador,Serviços,419,6,não
+950,Curitiba,Saúde,233,1,não
+951,Curitiba,Indústria,1166,13,não
+952,Goiânia,Governo,840,8,não
+953,Rio de Janeiro,Marketing,516,7,não
+954,São Paulo,Finanças,1804,18,sim
+955,Porto Alegre,Varejo,549,4,não
+956,Curitiba,Consultoria,908,10,não
+957,Curitiba,Tecnologia,2420,24,sim
+958,Florianópolis,Finanças,1935,21,sim
+959,Florianópolis,Consultoria,1001,11,não
+960,Goiânia,Indústria,1193,13,não
+961,Salvador,Educação,744,8,não
+962,Curitiba,Consultoria,314,5,não
+963,Goiânia,Consultoria,1048,11,não
+964,Guarulhos,Governo,458,5,não
+965,São Paulo,Educação,551,6,não
+966,Rio de Janeiro,Saúde,256,3,não
+967,Recife,Serviços,235,4,não
+968,Belo Horizonte,Indústria,1088,11,sim
+969,Manaus,Educação,607,7,não
+970,Belém,Governo,462,6,não
+971,Porto Alegre,Varejo,869,9,não
+972,Florianópolis,Saúde,476,7,não
+973,Guarulhos,Consultoria,1009,10,não
+974,Recife,Indústria,1082,13,não
+975,Belém,Finanças,1537,18,sim
+976,Curitiba,Consultoria,607,6,não
+977,Belém,Finanças,1730,19,sim
+978,Rio de Janeiro,Marketing,583,5,não
+979,Manaus,Governo,1121,12,sim
+980,São Paulo,Consultoria,922,9,não
+981,Florianópolis,Indústria,1161,12,sim
+982,Salvador,Serviços,476,5,não
+983,Curitiba,Serviços,523,7,não
+984,Manaus,Serviços,384,4,não
+985,Goiânia,Indústria,907,11,não
+986,Guarulhos,Finanças,2298,24,sim
+987,Recife,Governo,913,9,não
+988,Fortaleza,Indústria,988,9,não
+989,Curitiba,Governo,907,10,não
+990,Manaus,Governo,1088,12,não
+991,Guarulhos,Consultoria,471,5,não
+992,Fortaleza,Saúde,1194,14,sim
+993,Rio de Janeiro,Marketing,1005,10,não
+994,Belo Horizonte,Tecnologia,2276,23,sim
+995,Recife,Varejo,1127,11,sim
+996,Rio de Janeiro,Serviços,1046,12,não
+997,São Paulo,Governo,783,9,não
+998,Belo Horizonte,Indústria,849,10,não
+999,São Paulo,Serviços,1118,13,sim
+1000,Goiânia,Educação,813,8,não

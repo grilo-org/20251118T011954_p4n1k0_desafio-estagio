@@ -1,0 +1,53 @@
+  Etapa 1: Análise de Dados e Disgnóstico do Problema:
+  Lead Scoring Preditivo.
+  Abordagem Fundamental de Aprendizado da Máquina:
+  - A abordagem mais adequada é o Aprendizado Supervisionado. Ele requer um conjunto de dados onde ja conhecemos o resultado.
+  No cenário Unio IT, o conjunto de dados inclui a variável converteu_em_cliente, que é o resultado histórico que queremos prever no futuro.
+  O modelo aprenderá a mapear as características de entrada(setor_empresa, tempo_navegacao_site, etc.) para o resultado de saída (sim ou não).
+  O modelo deve realizar uma Tarefa de Classificação Binária.
+
+  Explicação:
+  - Classificação: A tarefa do modelo é atribuir uma observação (o lead) a uma categoria ou classe.
+  - Binária: Existem apenas duas classes de saída possíveís para a váriavel converteu_em_cliente:
+    1. Classe 0 (Negativo): O lead não converte o cliente.
+    2. Classe 1 (Positivo): O lead converte em cliente.
+
+  Análise (Features) e Preparação dos Dados:
+  - converteu_em_cliente: é a variável que o modelo deve prever. É a base do aprendizado supervisionado.
+  - tempo_navegacao_site: indica o nível de engajamento e interesse do lead. Maior tempo pode correlacionar-se com uma maior consideração da compra.
+  - paginas_visitadas: indica o aprofundamento na pesquisa lead. Se visitou páginas de preços, casos de sucesso ou de contato, a intenção de compra é provavelmente maior.
+  - setor_empresa: fundamental para um serviõ B2B. Permite identificar se o serviço é mais relevante ou atrativo para determinados setores da economia, focando no fit com o produto.
+  - cidade_lead: pode ser um indicador de tamanho de mercado, maturidade digital regional ou capacidade logística/suporte da Uniot IT. Requer tratamento devido ao alto número de categorias.
+
+  Em caso de Overfitting ou Underfitting:
+  - Overfitting: O modelo se ajustou demais ao conjunto de dados de treino, capturando ruído, e falha em generalizar para novos dados. Para resolver:
+    1. Regularização: Aplicar técnicas (como L1 iu L2) para penalizar pesos de features muito altos.
+    2. Simplificação do Modelo: Usar um modelo mais simples ou reduzir a profundidade/número de árvores.
+    3. Aumentar Dados de Treino: Se possível, adicionar mais exemplos.
+    4. Feature Selection: Remover features irrelevantes ou redundantes.
+   
+  - Underfitting: O modelo está muito simples ou fraco para capturar a complexidade da relação entre as features e o target. Para resolver:
+    1. Aumento da Complexidade do Modelo: Usar um modelo mais sofisticado.
+    2. Feature Engineering: Criar novas features que capturem melhor a informação.
+    3. Redução da Regularização: Relaxar a penalidade para permitir que o modelo aprenda melhor com os dados.
+    
+Etapa 3. Proposta de Solução Completa
+A nossa solução propõe trasnsformar a abordagem da Union IT na aquisição de clientes utilizando Inteligência Artificial em duas frentes: priorização de leads(Scoring) e personalização da comunição. O objetivo é garantir que o time de vendas gaste tempo com as melhores oportunidades, maximizando o ROI.
+
+- A Solução em Ação: Priorização e Personalização
+Etapa Lead Scoring: classica cada novo lead. calculando a provavilidade de conversão. 
+Etapa Personalização condicional: O score e o setor do lead guiam o conteúdo do e-mail ajustando o tom.
+O resultado é um funil de vendas ordenado por prioridade onde a comunicação é sempre relevante e direcionada.
+
+- Arquitetura Técnica e Viabilidade
+ Microsserviço de Scoring: O modelo preditivo seria hospedado em uma splução serveless, como o GCP Cloud Run (ou, AWS Lambda). Isso significa que pagamos apenas quando um novo lead aciona o serviço. A inferência é instantanea.
+ Integração de Dados: Usariamos o Google Pub/Sub para capturar clique do lead em tempo real e aenviar os dados para o microsserviço. O score de provavilidade retornado é salvo no CRM da Union IT.
+LLM para Marketing: A personalização seria feira por uma solução de IA Generativa via API, como Vertex AI (GCP) ou Azure OpenAI Service.
+
+- Desafio Ético e Mitigação
+- Mitigação: É fundamental que o time de Data Science implemente um monitoramento de vieses. Devemos sempre autidar o desempenho do modelo (acurácia ou recall) por segmento (cidade, setor) para garantir que a IA não esteja fechando portas para grupos que merecem ser prospectados. A priorização deve ser uma orientação, não uma conclusão.
+
+A aplicação dessa arquitetura de Lead Scoring e Personalização via IA representa o caminho mais inteligente para aumentar a taxa de conversão e garantir que o time de Vendas e Marketing trabalhem com máxima eficiência.
+    
+    
+
